@@ -35,4 +35,4 @@ npm install -s react-router-dom@5.3.0
  *React Router DOM — это модуль узла, который предназначен для маршрутизации в веб-приложениях. Он позволяет инженерам создавать маршруты для одностраничного приложения React.*
  
  ### Ссылка на обучающее видео: 
- https://www.youtube.com/watch?v=tYKRAXIio28&t=337s
+ https://www.youtube.com/watch?v=tYKRAXIio28&t=600s
