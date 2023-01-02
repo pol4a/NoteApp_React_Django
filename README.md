@@ -1,6 +1,7 @@
 # NoteApp_React_Django
 ## Создание онлайн-заметок на React и Django
 *Все команды выполняются на Windows*
+
 --> Переключиться на папку, где лежат все файлы проекта:
 ```
 cd NoteApp_React_Django
