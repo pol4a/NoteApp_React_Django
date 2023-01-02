@@ -1,4 +1,4 @@
-# NoteApp_React_Django
+# NotesApp_React_Django
 ## Создание онлайн-заметок на React и Django
 *Все команды выполняются на Windows*
 
