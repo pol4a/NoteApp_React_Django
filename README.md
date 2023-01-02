@@ -15,6 +15,10 @@ virtualenv env
 .\env\Scripts\activate
 ```
 --> Запуск сервера /порт 3000/ (React):
+```
 npm start
+```
 --> Запуск сервера /порт 8000/ (Django):
+```
 python manage.py runserver
+```
