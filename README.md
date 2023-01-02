@@ -26,6 +26,7 @@ python manage.py runserver
 1. Скачать Node.js
 
   *Node. js — среда выполнения кода JavaScript вне браузера, которая позволяет писать серверный код для веб-страниц и веб-приложений, а также для программ командной строки. С помощью Node. js реализуется парадигма «JavaScript для всего».*
+
 2. Установить router dom version 5.3.0
 ```
 npm install -s react-router-dom@5.3.0
