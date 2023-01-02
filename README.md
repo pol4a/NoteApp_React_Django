@@ -22,5 +22,3 @@ npm start
 ```
 python manage.py runserver
 ```
-### Превью:
-![preview](https://ibb.co/whJtPW3)
